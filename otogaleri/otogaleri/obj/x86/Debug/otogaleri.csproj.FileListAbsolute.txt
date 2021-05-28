@@ -1,0 +1,28 @@
+c:\users\acer\documents\visual studio 2010\Projects\otogaleri\otogaleri\bin\Debug\otogaleri.exe
+c:\users\acer\documents\visual studio 2010\Projects\otogaleri\otogaleri\bin\Debug\otogaleri.pdb
+c:\users\acer\documents\visual studio 2010\Projects\otogaleri\otogaleri\obj\x86\Debug\otogaleri.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\otogaleri\otogaleri\obj\x86\Debug\otogaleri.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\otogaleri\otogaleri\obj\x86\Debug\otogaleri.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2010\Projects\otogaleri\otogaleri\obj\x86\Debug\otogaleri.exe
+c:\users\acer\documents\visual studio 2010\Projects\otogaleri\otogaleri\obj\x86\Debug\otogaleri.pdb
+c:\users\acer\documents\visual studio 2010\Projects\otogaleri\otogaleri\obj\x86\Debug\otogaleri.Form2.resources
+C:\Users\ASUS\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.exe
+C:\Users\ASUS\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.pdb
+C:\Users\ASUS\Desktop\otogaleri\otogaleri\bin\Debug\otogaleri.exe
+C:\Users\ASUS\Desktop\otogaleri\otogaleri\bin\Debug\otogaleri.pdb
+C:\Users\ASUS\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.Form1.resources
+C:\Users\ASUS\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.Form2.resources
+C:\Users\ASUS\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.Properties.Resources.resources
+C:\Users\ASUS\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\üni\otogaleri\otogaleri\obj\x86\Debug\otogaleri.exe
+C:\Users\ASUS\Desktop\üni\otogaleri\otogaleri\obj\x86\Debug\otogaleri.pdb
+C:\Users\AYÇA\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.exe
+C:\Users\AYÇA\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.pdb
+C:\Users\AYÇA\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.csprojResolveAssemblyReference.cache
+C:\Users\AYÇA\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.Form1.resources
+C:\Users\AYÇA\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.Form2.resources
+C:\Users\AYÇA\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.Properties.Resources.resources
+C:\Users\AYÇA\Desktop\otogaleri\otogaleri\obj\x86\Debug\otogaleri.csproj.GenerateResource.Cache
+C:\Users\AYÇA\Desktop\otogaleri\otogaleri\bin\Debug\otogaleri.exe
+C:\Users\AYÇA\Desktop\otogaleri\otogaleri\bin\Debug\otogaleri.pdb
